@@ -1,8 +1,11 @@
 import React from 'react'
+import Hero from './Hero'
 
 const Login = () => {
   return (
-    <div>Login</div>
+    <div>
+        <Hero />
+    </div>
   )
 }
 
